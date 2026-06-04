@@ -4,6 +4,10 @@
 
 The Health Prediction Application is a full-stack health Prediction system developed using **Streamlit**, **FastAPI**, **MySQL**, and **Machine Learning**. The application enables users to manage patient records through complete CRUD (Create, Read, Update, Delete) operations and predict potential health risks based on patient health details such as Glucose, Haemoglobin, and Cholesterol levels.
 
+## Demo Video
+
+🎥 Watch the Demo: https://drive.google.com/file/d/1P-IIxLecmGSZoT1-0TD_hnSrL2Ivu8-i/view?usp=drive_link
+
 ### Patient Information Required
 
 To generate a health risk prediction, users must provide the following patient details:
